@@ -11,3 +11,5 @@ git push
 git checkout -b [NewBranchName]  
 git checkout master  
 git merge [BranchName]  
+
+git pull
